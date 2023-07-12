@@ -1,7 +1,7 @@
 # MessageBroker
 
 ## Run Publisher
-The default topic with id **1** will be automatically created.
+The default topic with id **1** will be created automatically.
 
 ## Run subscriber instance(s)
 Provide a name for the new subscriber.
